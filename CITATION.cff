@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "The implementations were made based on the following articles: https://chao-ji.github.io/jekyll/update/2018/07/19/BilinearResize.html and https://www.imageeprocessing.com/2017/11/nearest-neighbor-interpolation.html"
+authors:
+  - family-names: Maruyama
+    given-names: Felipe
+  - family-names: Daemon
+    given-names: Mateus
+  - family-names: Vieira, Menino
+    given-names: Vanessa
+title: "Nearest Neighbor Interpolation and Bilinear Interpolation implementations with MATLAB"
+version: 1.0.0
+date-released: 2021-12-03
